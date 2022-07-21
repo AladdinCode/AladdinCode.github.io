@@ -1,0 +1,75 @@
+body {
+    background-color: lightpink;
+    background-image: url(./bilder/image\ 1.webp);
+}
+* p {
+    color: whitesmoke;
+}
+
+h1 {
+    font-family: helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url(./bilder/image\ 2.webp);
+}
+.brushes h2 {
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+.brushes h3 {
+    font-family: helvetica;
+    font-weight: bold;
+}
+.brushes p {
+    text-align: left;
+}
+.brushes .price {
+    font-family: helvetica;
+    font-weight: bold;
+    color: blue;
+}
+.frames h2 {
+    color: white;
+    background-color: lightcoral;
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+
+}
+.frames h3 {
+    font-weight: bold;
+    text-align: left;
+    font-family: helvetica;
+}
+.frames p {
+    text-align: left;
+}
+.frames .price {
+    font-family: helvetica;
+    font-weight: bold;
+    color: blue;
+}
+.paint h2 {
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+.paint h3 {
+    text-align: left;
+    font-family: helvetica;
+}
+.paint p {
+   text-align: left; 
+}
+.paint .price {
+    font-family: helvetica;
+    font-weight: bold;
+    color: blue;
+
+}
